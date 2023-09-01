@@ -1,0 +1,15 @@
+.gitignore
+clash.yaml
+.user.ini
+.htaccess
+kod/
+.idea/
+.well-known/
+*.gz
+.git/
+*/.DS_Store
+.DS_Store
+*.sublime-*
+node_modules/
+package-lock.json
+package.json

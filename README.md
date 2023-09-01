@@ -6,7 +6,7 @@
 
 ### 网站截图
 
-## ![screen](screen.jpg)
+## ![screen](https://github.com/FeiyangClubSCU/Feiyang_RD_Laboratory/raw/master/images/screen.jpg)
 
 ### 安装方法
 
